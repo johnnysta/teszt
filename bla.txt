@@ -1,3 +1,4 @@
 bla
 new line
 another line
+*
